@@ -1,0 +1,5 @@
+ser veterinaria
+ser policia 
+ser artista 
+ser piloto
+ser enfermera
